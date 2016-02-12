@@ -1,0 +1,56 @@
+.metadata
+bin/
+tmp/
+*.tmp
+*.bak
+*.swp
+*~.nib
+local.properties
+.settings/
+.loadpath
+ 
+# Eclipse Core
+.project
+ 
+# External tool builders
+.externalToolBuilders/
+ 
+# Locally stored "Eclipse launch configurations"
+*.launch
+ 
+# JDT-specific (Eclipse Java Development Tools)
+.classpath
+ 
+# STS (Spring Tool Suite)
+.springBeans
+ 
+# checkstyle plugin
+.checkstyle
+
+# Maven
+.mvn/
+target/
+pom.xml.tag
+pom.xml.releaseBackup
+pom.xml.versionsBackup
+pom.xml.next
+release.properties
+dependency-reduced-pom.xml
+buildNumber.properties
+ 
+ 
+# cache files for sublime text
+*.tmlanguage.cache
+*.tmPreferences.cache
+*.stTheme.cache
+ 
+# workspace files are user-specific
+*.sublime-workspace
+ 
+# project files should be checked into the repository, unless a significant
+# proportion of contributors will probably not be using SublimeText
+# *.sublime-project
+ 
+# sftp configuration file
+sftp-config.json
+/Users/
